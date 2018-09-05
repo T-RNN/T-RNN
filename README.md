@@ -5,11 +5,11 @@ run code in py2.7 environment with pytorch
 
 Training in first stage:
 ```
-sh scripyt/exe_12.sh 
+sh script/exe_12.sh 
 ```
 Test in first stage:
 ```
-sh scripyt/step_one_test_12.sh 
+sh script/step_one_test_12.sh 
 ```
 
 
